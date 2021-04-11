@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![Danna's github stats](https://github-readme-stats.vercel.app/api?username=Daeun-Danna-Lee&show_icons=true)&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720)](https://solved.ac/hub0720/)
 <!--
 **Daeun-Danna-Lee/Daeun-Danna-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
