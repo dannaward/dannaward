@@ -1,6 +1,5 @@
 ## 👩🏻‍💻 이다은 Danna Lee   
 
-<br />
 
 ### 🦥 About Me
 🏫 &nbsp; Sungkyunkwan Univ, Seoul, Korea  
