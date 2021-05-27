@@ -2,7 +2,7 @@
 
 
 ### 🦥 About Me
-🏫 &nbsp; Sungkyunkwan Univ, Seoul, Korea  
+🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
 ✍🏻 &nbsp; Computer Education  
 💻 &nbsp; Front-end (iOS, Web)  
 📞 &nbsp; hub0720@g.skku.edu  
