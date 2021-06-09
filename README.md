@@ -35,6 +35,7 @@
 - <a href="https://apps.apple.com/kr/app/weathy-%EC%9B%A8%EB%94%94/id1549517979">Weathy 웨디</a> - Release Date : Mar 15, 2021 / Last Update : Apr 3, 2021
 - <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
+- <a href="https://github.com/Praise-Whale/Whale-iOS">Praise Whale 칭찬할고래</a>
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
 -->
