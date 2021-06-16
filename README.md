@@ -1,7 +1,7 @@
 ## 👩🏻‍💻 이다은 Danna Lee   
 
 
-### 🦥 About Me
+### 🦥 About Me  
 🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
 ✍🏻 &nbsp; Computer Education  
 💻 &nbsp; Front-end (iOS, Web)  
