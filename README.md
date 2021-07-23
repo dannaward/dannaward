@@ -3,7 +3,7 @@
 
 ### 🦥 About Me
 🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
-✍🏻 &nbsp; Computer Education  
+✍🏻 &nbsp; Computer Education & Applied Artifical Intelligence   
 💻 &nbsp; Front-end (iOS, Web)  
 📞 &nbsp; hub0720@g.skku.edu  
 📝 &nbsp; velog: <a href="https://velog.io/@danna-lee">velog.io/@danna-lee</a> - devlog  
