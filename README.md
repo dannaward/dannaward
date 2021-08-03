@@ -5,7 +5,7 @@
 🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
 ✍🏻 &nbsp; Computer Education & Applied Artifical Intelligence   
 💻 &nbsp; Front-end (iOS, Web)  
-📞 &nbsp; hub0720@g.skku.edu  
+📞 &nbsp; danna.developer@gmail.com  
 📝 &nbsp; velog: <a href="https://velog.io/@danna-lee">velog.io/@danna-lee</a> - devlog  
 📝 &nbsp; tistory: <a href="https://welcometodannas.tistory.com/">welcometodannas.tistory.com</a> - OJ solutions  
 🌟 &nbsp; ig: <a href="https://www.instagram.com/ol.cr.rlo/">@ol.cr.rlo</a> / fb: <a href="https://www.facebook.com/danna.lee.92/">Danna Lee</a>  
