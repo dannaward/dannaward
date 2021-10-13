@@ -61,10 +61,12 @@
 ## Experiences  
 ### 2021
 - Sep, 2020 ~ : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer
-- SOPT 29th Server Development
+- SOPT 29th Server (backend)
+- SOPT 28th Web (frontend)
 
 ### 2020
-- 
+- SOPT 27th iOS
+- PlayBit(Edutech startup) PM
 
 <br />
 <br />
