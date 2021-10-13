@@ -50,6 +50,9 @@
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
 - <a href="https://kyrics.vercel.app/">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
 
+### AI
+- <a href="https://github.com/Daeun-Danna-Lee/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
+
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
 -->
@@ -58,7 +61,7 @@
 ## Experiences  
 ### 2021
 - Sep, 2020 ~ : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer
-- 
+- SOPT 29th Server Development
 
 ### 2020
 - 
