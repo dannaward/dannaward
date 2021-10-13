@@ -29,19 +29,27 @@
 <br />
 
 ## Skills
-
+- **iOS**: Swift 5
+- **Web Frontend**: HTML/CSS, JavaScript, TypeScript, React.js, Next.js, Styled Components, Emotion
+- **Backend**: Node.js, Express, MySQL
+- **VCS**: Git, GitHub
+- **Other**: Python, Tensorflow, C, Linux, AI(ML, DL, NLP), Arduino
 
 
 <br />
 
 ## Projects
 
-- <a href="https://apps.apple.com/kr/app/%EC%82%B0%ED%83%80-%EB%A7%88%EB%8B%88%EB%98%90-santa-manitto/id1546583360">Santa Manitto 산타마니또 (iOS) </a> - Release Date : Dec 29, 2020 / Last Update : Aug 10, 2021
-- <a href="https://apps.apple.com/kr/app/weathy-%EC%9B%A8%EB%94%94/id1549517979">Weathy 웨디 (iOS)</a> - Release Date : Mar 15, 2021 / Last Update : Aug 3, 2021
-- <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드 (iOS)</a>
-- <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스 (Web Frontend)</a>
-- <a href="https://github.com/Praise-Whale/Whale-iOS">Praise Whale 칭찬할고래 (iOS)</a>
-- <a href="https://kyrics.vercel.app/">Kyrics 키릭스 (Web Frontend)</a> - Release Date : Jul 17, 2021
+### iOS
+- <a href="https://apps.apple.com/kr/app/weathy-%EC%9B%A8%EB%94%94/id1549517979">Weathy 웨디</a> - Release Date : Mar 15, 2021 / Last Update : Aug 3, 2021
+- <a href="https://apps.apple.com/kr/app/%EC%82%B0%ED%83%80-%EB%A7%88%EB%8B%88%EB%98%90-santa-manitto/id1546583360">Santa Manitto 산타마니또</a> - Release Date : Dec 29, 2020 / Last Update : Aug 10, 2021
+- <a href="https://github.com/Praise-Whale/Whale-iOS">Praise Whale 칭찬할고래</a>
+- <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
+
+### Web Frontend
+- <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
+- <a href="https://kyrics.vercel.app/">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
+
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
 -->
@@ -49,10 +57,16 @@
 
 ## Experiences  
 ### 2021
+- Sep, 2020 ~ : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer
+- 
+
+### 2020
+- 
 
 <br />
+<br />
+<br />
 
-## Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Daeun-Danna-Lee&show_icons=true" height="170"> <a href="https://solved.ac/hub0720/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
