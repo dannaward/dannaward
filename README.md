@@ -1,7 +1,6 @@
 <div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DANNA&fontAlign=70&rotate=13&fontAlignY=25&desc=iOS,%20Frontend,%20Backend,%20ML,%20NLP,%20Arduino&descAlign=70.&descAlignY=44">
 </div>
-
 <p align="center"> 
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
@@ -17,10 +16,9 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 </p>
 
-##
+<br/>
 
-
-### 🦥 About Me
+## About Me
 🏫 &nbsp; Sungkyunkwan Univ., Seoul, Korea  
 ✍🏻 &nbsp; Computer Education & Applied Artifical Intelligence   
 💻 &nbsp; Front-end (iOS, Web)  
@@ -31,7 +29,7 @@
 
 <br />
 
-### 📚 Languages and Tools  
+## 📚 Languages and Tools  
 
 
 
