@@ -50,13 +50,15 @@
 
 ### 📊 Stats
 
-  
-![Danna's github stats](https://github-readme-stats.vercel.app/api?username=Daeun-Danna-Lee&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720)](https://solved.ac/hub0720/)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Daeun-Danna-Lee&show_icons=true" height="170"> <a href="https://solved.ac/hub0720/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
+</div>
 
 <br />
 
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaeun-Danna-Lee%2F&count_bg=%23E8CAFF&title_bg=%23FFD000&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align="right">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDaeun-Danna-Lee%2F&count_bg=%23E8CAFF&title_bg=%23FFD000&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false">
+</div>
 <!--
 **Daeun-Danna-Lee/Daeun-Danna-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
