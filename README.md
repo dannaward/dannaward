@@ -52,6 +52,7 @@
 
 ### AI
 - <a href="https://github.com/Daeun-Danna-Lee/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
+- <a href="https://github.com/Daeun-Danna-Lee/NLP-Sentiment-Classification">Movie review sentiment classification</a> (NLP)
 
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
