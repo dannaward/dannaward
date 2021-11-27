@@ -31,7 +31,7 @@
 ## Skills
 - **iOS**: Swift 5
 - **Web Frontend**: HTML/CSS, JavaScript, TypeScript, React.js, Next.js, Styled Components, Emotion
-- **Backend**: Node.js, Express, MySQL
+- **Backend**: Node.js, Express, MySQL, PostgreSQL
 - **VCS**: Git, GitHub
 - **Other**: Python, Tensorflow, C, Linux, AI(ML, DL, NLP), Arduino
 
