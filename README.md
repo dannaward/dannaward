@@ -48,7 +48,7 @@
 
 ### Web Frontend
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
-- <a href="https://kyrics.vercel.app/">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
+- <a href="https://kyrics.org">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
 
 ### AI
 - <a href="https://github.com/Daeun-Danna-Lee/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
