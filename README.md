@@ -55,6 +55,9 @@
 - <a href="https://github.com/Daeun-Danna-Lee/NLP-Sentiment-Classification">Movie review sentiment classification</a> (NLP)
 - <a href="https://github.com/Daeun-Danna-Lee/mood-ring-AI">MoodRing.io</a> (FER)
 
+### ETC
+- <a href="https://github.com/Daeun-Danna-Lee/arduino-squid-game">Squid Game 오징어게임-무궁화 꽃이 피었습니다 </a> (Arduino, 3D Modeling/Printing, CV)
+
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
 -->
