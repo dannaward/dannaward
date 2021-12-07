@@ -52,8 +52,8 @@
 
 ### AI
 - <a href="https://github.com/Daeun-Danna-Lee/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
-- <a href="https://github.com/Daeun-Danna-Lee/NLP-Sentiment-Classification">Movie review sentiment classification</a> (NLP)
 - <a href="https://github.com/Daeun-Danna-Lee/mood-ring-AI">MoodRing.io</a> (FER)
+<!-- - <a href="https://github.com/Daeun-Danna-Lee/NLP-Sentiment-Classification">Movie review sentiment classification</a> (NLP) -->
 
 ### ETC
 - <a href="https://github.com/Daeun-Danna-Lee/arduino-squid-game">Squid Game 오징어게임-무궁화 꽃이 피었습니다 </a> (Arduino, 3D Modeling/Printing, CV)
