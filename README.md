@@ -65,7 +65,7 @@
 
 ## Experiences  
 ### 2021
-- Sep, 2020 ~ : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer
+- Sep ~ Nov, 2021 : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer (프리랜서)
 - SOPT 29th Server (backend)
 - SOPT 28th Web (frontend)
 
