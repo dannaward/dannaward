@@ -30,7 +30,7 @@
 
 ## Skills
 - **iOS**: Swift 5
-- **Web Frontend**: HTML/CSS, JavaScript, TypeScript, React.js, Next.js, Styled Components, Emotion
+- **Web Frontend**: HTML/CSS, JavaScript, TypeScript, React.js, Next.js
 - **Backend**: Node.js, Express, MySQL, PostgreSQL
 - **VCS**: Git, GitHub
 - **Others**: Python, Tensorflow, C, Linux, AI(ML, DL, NLP), Arduino
@@ -43,6 +43,7 @@
 ### iOS
 - <a href="https://apps.apple.com/kr/app/weathy-%EC%9B%A8%EB%94%94/id1549517979">Weathy 웨디</a> - Release Date : Mar 15, 2021 / Last Update : Aug 3, 2021
 - <a href="https://apps.apple.com/kr/app/%EC%82%B0%ED%83%80-%EB%A7%88%EB%8B%88%EB%98%90-santa-manitto/id1546583360">Santa Manitto 산타마니또</a> - Release Date : Dec 29, 2020 / Last Update : Aug 10, 2021
+- <a href="https://apps.apple.com/jm/app/wolley/id1607215622">Wolley</a> - Release Date : Feb 11, 2022 / Last Update : Mar 8, 2022
 - <a href="https://github.com/Praise-Whale/Whale-iOS">Praise Whale 칭찬할고래</a>
 - <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
 
@@ -64,6 +65,9 @@
 <br />
 
 ## Experiences  
+### 2022
+- Dec, 2021 - Feb, 2022 : <a href="https://kakaobrain.com/">Kakaobrain 카카오브레인</a> iOS Developer (인턴)
+
 ### 2021
 - Sep ~ Nov, 2021 : <a href="http://kgfamily.co.kr/">KG Zeroin (주)KG제로인</a> iOS Developer (프리랜서)
 - SOPT 29th Server (backend)
