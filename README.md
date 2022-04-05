@@ -26,7 +26,7 @@
 - &nbsp; tistory: <a href="https://welcometodannas.tistory.com/">welcometodannas.tistory.com</a> - OJ solutions  
 
 
-<br />
+<!-- <br />
 
 ## Skills
 - **iOS**: Swift 5
@@ -34,7 +34,7 @@
 - **Backend**: Node.js, Express, MySQL, PostgreSQL
 - **VCS**: Git, GitHub
 - **Others**: Python, Tensorflow, C, Linux, AI(ML, DL, NLP), Arduino
-
+ -->
 
 <br />
 
@@ -62,7 +62,7 @@
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
 -->
-<br />
+<!-- <br />
 
 ## Experiences  
 ### 2022
@@ -76,7 +76,7 @@
 ### 2020
 - SOPT 27th iOS
 - PlayBit(Edutech startup) PM
-
+ -->
 <br />
 <br />
 <br />
