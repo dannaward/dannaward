@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DANNA&fontAlign=70&rotate=13&fontAlignY=25&desc=iOS,%20Frontend,%20Backend,%20ML,%20NLP,%20Arduino&descAlign=70.&descAlignY=44">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DANNA&fontAlign=70&rotate=13&fontAlignY=25&desc=Software%20Engineer&descAlign=70.&descAlignY=44">
 </div>
 <p align="center"> 
   <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> 
