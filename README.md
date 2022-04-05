@@ -52,12 +52,12 @@
 - <a href="https://kyrics.org">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
 
 ### AI
-- <a href="https://github.com/Daeun-Danna-Lee/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
-- <a href="https://github.com/Daeun-Danna-Lee/mood-ring-AI">MoodRing.io</a> (FER)
+- <a href="https://github.com/dannaward/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
+- <a href="https://github.com/dannaward/mood-ring-AI">MoodRing.io</a> (FER)
 <!-- - <a href="https://github.com/Daeun-Danna-Lee/NLP-Sentiment-Classification">Movie review sentiment classification</a> (NLP) -->
 
 ### ETC
-- <a href="https://github.com/Daeun-Danna-Lee/arduino-squid-game">Squid Game 오징어게임-무궁화 꽃이 피었습니다 </a> (Arduino, 3D Modeling/Printing, CV)
+- <a href="https://github.com/dannaward/arduino-squid-game">Squid Game 오징어게임-무궁화 꽃이 피었습니다 </a> (Arduino, 3D Modeling/Printing, CV)
 
 <!--
 <a href= "https://apps.apple.com/us/app/id1549517979"><img src="https://user-images.githubusercontent.com/42545818/113259432-1407a980-9308-11eb-93c1-e35a3f5d25fd.png" width = "100"/></a>
