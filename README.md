@@ -46,10 +46,12 @@
 - <a href="https://apps.apple.com/jm/app/wolley/id1607215622">Wolley</a> - Release Date : Feb 11, 2022 / Last Update : Mar 8, 2022
 - <a href="https://github.com/Praise-Whale/Whale-iOS">Praise Whale 칭찬할고래</a>
 - <a href="https://github.com/Find-U-I/Find-iOS">Find 파인드</a>
+- <a href="https://github.com/zaranaramorimori/HACKER-iOS">HACKER 헤어커밋</a>
 
 ### Web Frontend
 - <a href="https://github.com/TeamYouniverse/Youniverse-Web">Youniverse 유니버스</a>
 - <a href="https://kyrics.org">Kyrics 키릭스</a> - Release Date : Jul 17, 2021
+- <a href="https://github.com/zaranaramorimori">HACKER 헤어커밋</a>
 
 ### AI
 - <a href="https://github.com/dannaward/text-replacement-recommendation">Emotion classification & Personalized Emoji recommendation</a> (NLP)
