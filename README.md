@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=DANNA&fontAlign=70&rotate=13&fontAlignY=25&desc=Software%20Engineer&descAlign=70.&descAlignY=44">
 </div>
 <p align="center"> 
