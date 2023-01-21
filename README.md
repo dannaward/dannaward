@@ -2,7 +2,7 @@
 - &nbsp; linkedIn: <a href="https://www.linkedin.com/in/danna-lee-65aa731b7">Danna Lee</a>  
 - &nbsp; ig: <a href="https://www.instagram.com/ol.cr.rlo/">@ol.cr.rlo</a> / fb: <a href="https://www.facebook.com/danna.lee.92/">Danna Lee</a>  
 - &nbsp; velog: <a href="https://velog.io/@danna-lee">velog.io/@danna-lee</a> - devlog  
-- &nbsp; tistory: <a href="https://welcometodannas.tistory.com/">welcometodannas.tistory.com</a> - OJ solutions  
+<!-- - &nbsp; tistory: <a href="https://welcometodannas.tistory.com/">welcometodannas.tistory.com</a> - OJ solutions   -->
 
 <br/><br/>
 
