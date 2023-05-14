@@ -1,13 +1,13 @@
-- &nbsp; danna.developer@gmail.com  
+<!-- - &nbsp; danna.developer@gmail.com  
 - &nbsp; linkedIn: <a href="https://www.linkedin.com/in/danna-lee-65aa731b7">Danna Lee</a>  
 - &nbsp; ig: <a href="https://www.instagram.com/ol.cr.rlo/">@ol.cr.rlo</a> / fb: <a href="https://www.facebook.com/danna.lee.92/">Danna Lee</a>  
-- &nbsp; blog: <a href="https://welcometodannas.tistory.com/">toward, dannaward</a>  
-<!-- - &nbsp; tistory: <a href="https://welcometodannas.tistory.com/">welcometodannas.tistory.com</a> - OJ solutions   -->
+- &nbsp; blog: <a href="https://welcometodannas.tistory.com/">toward, dannaward</a>   -->
 
 <br/><br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dannaward&show_icons=true" height="170"> <a href="https://solved.ac/hub0720/"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dannaward&show_icons=true" height="170"> <a href="https://solved.ac/hub0720/">
+<!--   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hub0720" height="170"></a> -->
 </div>
 
 <br />
