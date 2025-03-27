@@ -14,6 +14,8 @@
 <br />
 -->
 
+<!-- 
 <div align="right">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdannaward%2F&count_bg=%23E8CAFF&title_bg=%23FFD000&icon=&icon_color=%23CFCFCF&title=hits&edge_flat=false">
 </div>
+-->
